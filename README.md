@@ -131,13 +131,3 @@ ResNet50       █████████████████████�
 
 Nickparvar, M. (2021) *Brain Tumor MRI Dataset*. Kaggle. Available at: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
----
-
-## 📄 Submission Details
-
-| Field | Detail |
-|---|---|
-| Module | CSC-44112 Advanced Applications of AI and ML |
-| Assessment | Part 2 — Technical Data Science Report |
-| Academic Year | 2025–2026 |
-| Institution | Keele University |
